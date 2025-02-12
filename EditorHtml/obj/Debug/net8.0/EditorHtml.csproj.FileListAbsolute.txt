@@ -1,0 +1,14 @@
+C:\Aulas\balta-csharp\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\Aulas\balta-csharp\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\Aulas\balta-csharp\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\Aulas\balta-csharp\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\Aulas\balta-csharp\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\Aulas\balta-csharp\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll
